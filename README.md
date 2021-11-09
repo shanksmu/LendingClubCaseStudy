@@ -22,12 +22,7 @@ Loan Data Set is provided which contains the raw data of borrowers who had gotte
 Data Dictionary is also to provide to describle the columns names in the above data set.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+Please go through the presentation for detailed analysis.
 
 
 ## Technologies Used
